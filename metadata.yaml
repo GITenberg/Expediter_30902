@@ -26,6 +26,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
 description: His assignment was to get things done; he definitely did so. Not quite
   the things intended, perhaps, but definitely done.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30902#Expediter
 gutenberg_issued: '2010-01-09'
 gutenberg_type: Text
 identifiers:

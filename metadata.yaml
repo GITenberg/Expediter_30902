@@ -1,0 +1,43 @@
+_repo: Expediter_30902
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling
+    - Schelling, George L.
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: His assignment was to get things done; he definitely did so. Not quite
+  the things intended, perhaps, but definitely done.
+gutenberg_issued: '2010-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Balkan Peninsula -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Science fiction'
+title: Expediter
+url: http://www.gutenberg.org/ebooks/30902
